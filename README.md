@@ -1,0 +1,4 @@
+TypeScript
+JavaScript 
+React 
+Tailwind
